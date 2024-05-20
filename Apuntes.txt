@@ -1,0 +1,36 @@
+=======
+APUNTES PROGRA I
+	Objeto (Paradigma de Programacion)
+	Variable se define como una casilla de memoria 
+	Un objeto es un ente semi independiente que compone un programa.
+		Constan de atributos y métodos:
+		Atributos responde a: 
+			¿Cómo es el objeto? 
+			¿Cómo esta el objeto? 
+			¿Qué conoce el objeto?
+		Métodos son acciones que puede hacer el objeto.
+	Clase, compuestos por atributos y métodos siendo asi un molde para crear objetos, para asi optimizar la creacion y mantenimiento del 	codigo.
+	Una estructura de datos es una manera de organziar grandes cantidades de datos en la memoria.
+	Un arreglo es una estructura de datos lineal rapida de memoria contigua estatica homogenea
+	Un arreglo de arreglos en java se lo conoce como matriz
+Un constructor es un metodo que se llama al momento de instanciar un objeto.
+La palabra this es la palabra clave para que el objeto haga referencia a si mismo.
+Un getter es un metodo que sirve para que un objeto le pida a otro el valor de uno de sus atributos.
+Un setter es un metodo que sirve para que un objeto le asigne un valor a uno de los atributos de otro objeto.
+Interaccion debil: cuando los objetos interactuan entre si mediante parametros.
+Interaccion fuerte: cuando los objetos interactuan entre si mediante parametros.
+******************************
+arrayIndexOutOfBoundsException
+******************************
+nullPointerException
+******************************
+-Deficiones Aisladas:	
+	Concatenar equivale a juntar 2 expresiones.
+	Tipo de datos es un conjunto de valores y operaciones asociadas.
+	Instanciacion es la creacion de un objeto a partir de una clase.
+	Parametro es una casilla de memoria con la capacidad de entrada de datos.
+	Argumento es el dato que se inserta en el parametro.
+	If es una instruccion de control de flujo condicional (al igual que switch).
+	While es una instruccion de control de flujo repetitiva (al igual que for).
+		Este toma como argumento una condicion que; si al evaluarse devuelve true, ejecuta las instrucciones dentro del cuerpo.
+
